@@ -1,0 +1,25 @@
+
+
+.bg-body-color {
+    background-color: black;
+    height: 62svh;
+}
+
+.footer-color {
+    background-color: white;
+    height: 8vh;
+}
+
+.quote-1-color {
+    background-color: green;
+    height: 15vh;
+}
+
+.quote-2-color {
+    background-color: blue;
+    height: 15vh;
+}
+
+.navbar {
+    color: white;
+}

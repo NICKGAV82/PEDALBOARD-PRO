@@ -27,3 +27,16 @@ This project has been created as part of my level 5 diploma web application cour
 ### Page 3 mock up
 
 ![Page 3 wireframe](assets/wireframes/pedalboard-pro-page-3.jpg)
+
+## Technologies 
+
+### Languages -
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) 
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Libraries and Framewoks -
+- [Balsamiq Wireframes](https://balsamiq.com)
+- [Bootstrap](https://getbootstrap.com/)
+
+
+
