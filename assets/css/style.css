@@ -12,14 +12,26 @@
 
 .quote-1-color {
     background-color: green;
-    height: 15vh;
+    height: 30vh;
 }
 
 .quote-2-color {
     background-color: blue;
-    height: 15vh;
+    height: 30vh;
 }
 
 .navbar {
     color: white;
 }
+
+#background-video {
+    width: 100vw;
+    height: 62vh;
+    object-fit: cover;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    
+ }
