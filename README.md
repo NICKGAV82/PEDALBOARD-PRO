@@ -38,10 +38,12 @@ This project has been created as part of my level 5 diploma web application cour
 - [Balsamiq Wireframes](https://balsamiq.com)
 - [Bootstrap](https://getbootstrap.com/)
 
-xxx Reference Resources -
+### Reference Resources -
 - [HubSpot.](https://blog.hubspot.com/website/video-background-css) Used to embed home page background video.
 
-xxx Media Credits - 
+### Media Credits - 
 - Background video by Yucel Yimaz licensed through [Adobe Stock](http;//stock.adobe.com).
+- 'Male guitrist' Image by RDNE Stock Project via [Pexels](https://www.pexels.com/)
+- 'Bass Player' Image by Ryan Holloway via [Pexels](https://www.pexels.com/)
 
 
