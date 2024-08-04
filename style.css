@@ -49,6 +49,29 @@
     
 }
 
-.build-btn {
-    float: right;
+.card {
+    font-size: 150%;
+    font-weight: 300;
+    font-family: "Oswald" , sans-serif;
+    text-transform: uppercase;
+    
+}
+
+.card-body {
+    padding-left: 5%;
+}
+
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+
+  .quotes {
+    background-color: black;
+  }
+
+.form-image {
+    max-width: 100%;
+    max-height: 100%;
 }
