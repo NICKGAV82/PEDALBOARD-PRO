@@ -1,0 +1,54 @@
+
+.bg-body-color {
+    height: 62svh;
+}
+
+
+#background-video {
+    width: 100vw;
+    height: 62vh;
+    object-fit: cover;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+
+}
+
+
+.social-networks {
+    text-align: center;
+    list-style-type: none;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: black;
+}
+
+.navbar-brand {
+    font-size: 300%;
+    font-weight: 600;
+    font-family: "Oswald" , sans-serif;
+    letter-spacing: 4px;
+   
+}
+.nav-item {
+    font-size: 150%;
+    font-weight: 300;
+    font-family: "Oswald" , sans-serif;
+    text-transform: uppercase;
+    padding-top: 4%;
+    
+}
+
+.build-btn {
+    float: right;
+}
