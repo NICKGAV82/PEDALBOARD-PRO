@@ -47,12 +47,9 @@
     font-weight: 250;
     font-family: "Oswald" , sans-serif;
     text-transform: uppercase;
-
+    display: flex;
+    
    
-}
-
-.card-body {
-    padding-left: 5%;
 }
 
 .quotes {
@@ -117,3 +114,20 @@
     white-space: nowrap;
     overflow: hidden;
   }
+
+  .testimonial-text {
+    position: absolute;
+    top: 80%; 
+    left: 40%; 
+    right: 40%;
+    transform: translate(-50%, -50%); 
+    color: #fff; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    text-align: left;
+    font-weight: 300;
+    overflow: hidden;
+
+  }
+
+ 
