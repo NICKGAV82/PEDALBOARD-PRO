@@ -130,4 +130,40 @@
 
   }
 
- 
+  #thisbanner {
+    max-width: 700px;
+  }
+  
+  h1 {
+    position: absolute;
+    display: block;
+    width: 80%;
+    margin-top: -50%;
+    margin-left: -9%;
+    max-width: 610px;
+    min-width: 300px;
+    font-size: 90px;
+    font-family: "Oswald" , sans-serif;
+    line-height: 200%;
+    font-weight: 600;
+    color: #FFF;
+    text-shadow: 0 .125em .125em rgba(0, 0, 0, .5);
+    padding: .6em 1em .6em 1.7em;
+    white-space: nowrap;
+  }
+
+  @media screen and (min-width: 1400px) {
+    h1 {
+      font-size: 90px;
+    }
+  }
+
+
+  @media screen and (max-width: 600px) {
+    h1 {
+      font-size: 30px;
+      margin-top: -120%;
+      margin-left: -9%;
+      line-height: 250%;
+  }
+}
