@@ -40,10 +40,12 @@ This project has been created as part of my level 5 diploma web application cour
 
 ### Reference Resources -
 - [HubSpot.](https://blog.hubspot.com/website/video-background-css) Used to embed home page background video.
+- [Dev.to](https://dev.to/) Referenced for image opacity.
+- [Stack Overflow](https://stackoverflow.com/questions/41172023/how-to-overlay-text-on-top-of-a-responsive-image-responsively) Code was used and then editid to suit my needs in overlay text on home page video background.
 
 ### Media Credits - 
 - Background video by Yucel Yimaz licensed through [Adobe Stock](http;//stock.adobe.com).
 - 'Male guitrist' Image by RDNE Stock Project via [Pexels](https://www.pexels.com/)
 - 'Bass Player' Image by Ryan Holloway via [Pexels](https://www.pexels.com/)
-
+- Form background image by Tom S via licensed through [Adobe Stock](http;//stock.adobe.com)
 
