@@ -167,3 +167,36 @@
       line-height: 250%;
   }
 }
+
+#process {
+  max-height: 50vh;
+  background-color: black;
+
+}
+
+img {
+  opacity: 0.5;
+}
+
+#process-title {
+  text-align: center;
+  font-size: 60px;
+  font-family: "Oswald" , sans-serif;
+  text-shadow: 0 .125em .125em rgba(0, 0, 0, .5);
+  letter-spacing: 4px;
+}
+
+#card-button {
+  text-align: center;
+  margin-bottom: 0;
+  font-family: "Oswald" , sans-serif;
+  text-shadow: 0 .125em .125em rgba(0, 0, 0, .5);
+  
+}
+
+#nav-button {
+  font-family: "Oswald" , sans-serif;
+  text-shadow: 0 .125em .125em rgba(0, 0, 0, .5);
+  
+}
+
