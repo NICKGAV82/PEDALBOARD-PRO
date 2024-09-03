@@ -38,7 +38,8 @@
 }
 
 .card {
-    font-size: 150%;
+    font-size: 100%;
+    text-align: center;
     font-weight: 250;
     font-family: "Oswald" , sans-serif;
     text-transform: uppercase;
@@ -85,8 +86,8 @@
 
   @media screen and (max-width: 600px) {
     h1 {
-      font-size: 20px;
-      line-height: 200%;
+      font-size: 25px;
+      line-height: 250%;
   }
   }
 
@@ -101,7 +102,6 @@
       font-size: 25px;
       line-height: 160%;
   }
-
 }
 
 #process {
@@ -116,7 +116,7 @@ img {
 
 #process-title {
   text-align: center;
-  font-size: 60px;
+  font-size: 30px;
   font-family: "Oswald" , sans-serif;
   text-shadow: 0 .125em .125em rgba(0, 0, 0, .5);
   letter-spacing: 4px;
@@ -145,15 +145,24 @@ img {
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
-  width: 600px;
+  width: 450px;
   height: 350px;
   padding-top: 40px;
   padding-left: 5px;
   background-color: rgb(239 9 126 / 40%);
   top: 150px;
-  left: 35px;
+  left: 75px;
   position: absolute;
   border-radius: 5%;
+}
+
+@media screen and (max-width: 600px) {
+  #cover-text {
+  width: 300px;
+  height: 250px;
+  top: 300px;
+  left: 50px;
+   }
 }
 
 #pro-button {
@@ -168,4 +177,50 @@ i:hover {
 
 a:hover {
   color: rgb(239 9 126 / 100%);
+}
+
+#quote-1-text {
+  font-size: 100%;
+  font-family: Oswald, sans-serif;
+  letter-spacing: 4px;
+  width: 250px;
+  height: 20%;
+  top: 775px;
+  left: 5%;
+  position: absolute;
+  border-radius: 10%;
+  text-shadow: 0 .125em .125em rgba(0, 0, 0, .5);
+  }
+
+  #quote-2-text {
+    font-size: 100%;
+    font-family: Oswald, sans-serif;
+    letter-spacing: 4px;
+    width: 250px;
+    height: 20%;
+    top: 775px;
+    right: 3%;
+    position: absolute;
+    border-radius: 10%;
+    text-shadow: 0 .125em .125em rgba(0, 0, 0, .5);
+    }
+
+    @media screen and (max-width: 900px) {
+      #quote-2-text {
+   
+    right: 3%;
+    font-size: 75%;
+       }
+    }
+  
+    .quote {
+      color: #FFF;
+    }
+
+  .form-section {
+    clear: left;
+    background: url(../images/formpage.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 750px;
 }
