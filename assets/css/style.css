@@ -145,13 +145,13 @@ img {
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
-  width: 450px;
-  height: 350px;
+  width: 350px;
+  height: 300px;
   padding-top: 40px;
-  padding-left: 5px;
+  padding-left: 15px;
   background-color: rgb(239 9 126 / 40%);
   top: 150px;
-  left: 75px;
+  left: 50px;
   position: absolute;
   border-radius: 5%;
 }
@@ -160,8 +160,8 @@ img {
   #cover-text {
   width: 300px;
   height: 250px;
-  top: 300px;
-  left: 50px;
+  top: 250px;
+  left: 10px;
    }
 }
 
@@ -341,4 +341,12 @@ height: 100%;
 position: absolute;
 object-fit: cover;
 
+}
+
+.mission-statement {
+  background-color: black;
+  text-align: center;
+  letter-spacing: 10px;
+  padding-top: 30px;
+  font-weight: 300;
 }
