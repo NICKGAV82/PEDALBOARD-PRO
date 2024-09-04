@@ -119,9 +119,9 @@ i:hover {
     top: 20px;
   }
 
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 800px) {
     .card {
-      font-size: 6px;
+      font-size: 10px;
       line-height: 250%;
   }
   }
@@ -164,7 +164,7 @@ img {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 700px) {
   #process-title-design {
     font-size: 10px;
     line-height: 250%;
@@ -180,7 +180,7 @@ img {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 700px) {
   #process-title-connect {
     font-size: 10px;
     line-height: 250%;
@@ -196,7 +196,7 @@ img {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 700px) {
   #process-title-power {
     font-size: 10px;
     line-height: 250%;
@@ -212,7 +212,7 @@ img {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 700px) {
   #process-title-protect {
     font-size: 10px;
     line-height: 250%;
