@@ -110,16 +110,24 @@ i:hover {
 /*-----Cards-----*/
 
 .card {
-    font-size: 100%;
+    font-size: 30px;
     text-align: center;
     font-weight: 250;
     font-family: "Oswald" , sans-serif;
-    text-transform: uppercase;
     display: flex;
+    letter-spacing: 2px;
+    top: 20px;
+  }
+
+  @media screen and (max-width: 900px) {
+    .card {
+      font-size: 10px;
+      line-height: 250%;
+  }
   }
 
   #process {
-  max-height: 50vh;
+  max-height: 350px;
   background-color: black;
 
 }
@@ -130,10 +138,18 @@ img {
 
 #process-title {
   text-align: center;
-  font-size: 25px;
+  font-size: 30px;
   font-family: "Oswald" , sans-serif;
   text-shadow: 0 .125em .125em rgba(0, 0, 0, .5);
-  letter-spacing: 4px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 900px) {
+  #process-title {
+    font-size: 15px;
+    line-height: 250%;
+}
 }
 
 #card-button {
