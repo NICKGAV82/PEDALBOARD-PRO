@@ -1,5 +1,5 @@
 # Pedalboard Pro
-Pedalboard Pro is a fictional company that offers a custom design and build service. The website aims to showcase the services they offer and also act as a first point of conact between the company and the client. 
+Pedalboard Pro is a fictional company that offers a custom design and build service. The website aims to showcase the services they offer and also act as a first point of contact between the company and the client. 
 
 This project has been created as part of my level 5 diploma web application course.
 
@@ -15,7 +15,7 @@ This project has been created as part of my level 5 diploma web application cour
 
 ### User Goals -
 1. To find a visually enjoyable website that is easily understood aand navigated. 
-2. To fully and quickly undersatnd the services that the company offer.
+2. To fully and quickly understand the services that the company offer.
 3. To be able to easily conact the company.
 
 ## Wireframes
@@ -44,25 +44,26 @@ This project has been created as part of my level 5 diploma web application cour
 
 ## Features
 
-The website attempts a cohesive apperance across all page by using the same header and footer across all pages and by maintaining the simple the colour scheme. 
+The website attempts a cohesive appearance by using the same header and footer across all pages and by maintaining the simple colour scheme. 
 
 ### Header - 
-The header sets the tone of the simplistic/stylistic design of the site containing the brand name of the company followed by a link for 'Home' and 'The Process'. All of which in the uniform 'Oswald' font. To the far right of the page is a button/link to the form page which has been styled as a Bright Pink button in order to draw the users attention amd entice their decieion to naviagte to that page and complete the form.
+The header sets the tone of the simplistic/stylistic design of the site containing the brand name of the company followed by a link for 'Home' and 'The Process'. All of which are in the uniform 'Oswald' font. To the far right of the page is a button/link to the form page which has been styled in the Bright Pink in order to draw the users attention and entice them to navigate to that page and complete the form.
 #### Full screen header -
 ![header full version](header-full.jpg)
 #### Small screen header with toggle menu -
 ![header small version](header-toggle.jpg)
 
 ### Footer - 
-The footer is kept simple with links to social media that when hovered over by the mouse they then turn the Bright Pink colour  that is being use through the site.
+The footer is kept simple with links to social media that when hovered over by the mouse they then turn the Bright Pink colour  that is being use throughout the site.
+
 ![footer image](footer.jpg)
 
 ### Home Page -
-The home contains three main sections. The first section being a full screen width video spanning the width of a guitar fx pedalboard with a responsive overlay text feature.
+The home page contains three main sections. The first section being a full screen width video panning across a guitar fx pedalboard with a responsive overlay text feature.
 ![home page first section](home-1.jpg)
 
 Next we have an "about"/mission statement section, briefly describing the company and also featuring another button to again try and lure the user to the form page.
-![home page section section](home-2.jpg)
+![home page section section](home-page.jpg)
 
 Lastly on the Home Page we have two customer testimonials featuring responsive images and text.
 
@@ -72,11 +73,11 @@ Lastly on the Home Page we have two customer testimonials featuring responsive i
 ![testimonials on small screen](quotes-sm.jpg)
 
 ### About Page (The Process) - 
-The about page show the four stages of Pedalboard Pro's process showing four cards with each depicting their particular parts of the process and with each card also containing the repeated "pink button" to direct users to the form page.
+The about page shows the four stages of Pedalboard Pro's process featuring four cards with each depicting their particular parts of the process and with each card also containing the repeated "pink button" to direct users to the form page.
 #### About page -
 ![about page](about.jpg)
 #### Form page -
-The form page contains a simple background image with a "sign up" type form that utilizes both the running font and complimentary Bright Pink colour scheme elements.
+The form page contains a simple background image with a "sign up" type form that utilizes both the running 'Oswald' font and Bright Pink colour scheme elements.
 ![form page](form.jpg)
 
 ## Technologies 
@@ -90,7 +91,7 @@ The form page contains a simple background image with a "sign up" type form that
 - [Bootstrap](https://getbootstrap.com/) used for for basic navbar, layout and responsiveness.
 - [Font Awesome](https://fontawesome.com/v4) supplied all icons used througout the site such as those used for the social media links in the footer.
 - [GitHub](https://github.com/) was used for storing my repository and the deployment of my live project.
-- [Unblast](https://unblast.com/) used in tha making of the resonsive design mock up at the top of the page. 
+- [Unblast](https://unblast.com/) used in tha making of the resonsive design mockup at the top of the page. 
 - [Adobe Photoshop](https://adobe.com) was also used in the creation of the responsive mock up design.
 - [Google Fonts](https://fonts.google.com/) supplied the 'Oswald' font which i used exclusively in this project.
 
@@ -130,14 +131,13 @@ This project was deployed on to GitHub Pages. To do this I did the following.
 5. Once the page has refreshed, then locate the [Live Link](https://github.com/NICKGAV82/PEDALBOARD-PRO/deployments) in the 'GitHub Pages' section.
 
 ## Reference/Code Resources 
-- [HubSpot.](https://blog.hubspot.com/website/video-background-css) Used to embed home page background video.
 - [Dev.to](https://dev.to/) Referenced for image opacity.
 - [Stack Overflow](https://stackoverflow.com/questions/41172023/how-to-overlay-text-on-top-of-a-responsive-image-responsively) Code was used and then editid to suit my needs in overlay text on home page video background.
 - [Code Institute](https://codeinstitute.net) The 'Love Running' course lessons were very helpful with the completion of this project.
 - [W3 Schools](https://www.w3schools.com/) was an invaluable resource during this project.
 
 ## Media Credits 
-- Background video by Yucel Yimaz licensed through [Adobe Stock](http;//stock.adobe.com).
+- Background video by Yucel Yimaz licensed through [Adobe Stock](http://stock.adobe.com).
 - Pedal-cabling image was downloaded from [Google Images](https://images.google.co.uk/)
 - 'Male guitrist' Image by RDNE Stock Project via [Pexels](https://www.pexels.com/).
 - 'Case' image was sourced through [Google Images](https://images.google.co.uk/)
